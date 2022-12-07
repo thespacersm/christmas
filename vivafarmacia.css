@@ -1,5 +1,5 @@
 .page-wrapper:before {
-    content: "Speciale Black Friday: Dal 21 al 28 novembre extra sconti fino al 50% su numerosi prodotti!";
+    content: "Natale: Scopri le nostre proposte per il tuo regalo perfetto!";
     display: block;
     width: 100%;
     background: red;
@@ -11,7 +11,7 @@
 }
 
 #amasty-shopby-product-list .item.product .price-box.price-final_price:before {
-    content: "Black Friday: Dal 21 al 28 extra sconto su numerosi prodotti!";
+    content: "Natale: Sconti per il regalo perfetto!";
     display: block;
     width: 100%;
     background: red;
@@ -31,7 +31,7 @@
 }
 
 .catalog-product-view .product-info-side:before {
-    content: "Speciale Black Friday: Dal 21 al 28 novembre extra sconto su numerosi prodotti!";
+    content: "Natale: Scopri le nostre proposte per il tuo regalo perfetto!";
     display: block;
     width: 100%;
     background: red;
@@ -54,7 +54,7 @@
     }
     
     #amasty-shopby-product-list .item.product:before {
-        content: "Black Friday: Dal 21 al 28 extra sconto su numerosi prodotti!";
+        content: "Natale: Sconti per il regalo perfetto!";
         display: block;
         width: 100%;
         background: red;
@@ -77,7 +77,7 @@
 @media only screen and (min-width: 768px) and (max-width: 1200px) {
     
     #amasty-shopby-product-list .item.product:before {
-        content: "Natale: Dal 21 al 28 extra sconto su numerosi prodotti!";
+        content: "Natale: Sconti per il regalo perfetto!";
         display: block;
         width: 100%;
         background: red;
