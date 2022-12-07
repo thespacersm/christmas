@@ -12,7 +12,7 @@
 }
 
 #amasty-shopby-product-list .item.product .price-box.price-final_price:before {
-    content: "Natale: Sconti per il regalo perfetto!";
+    content: "Natale: Trova il regalo perfetto!";
     display: block;
     width: 100%;
     background: #c10000;
@@ -57,7 +57,7 @@
     }
     
     #amasty-shopby-product-list .item.product:before {
-        content: "Natale: Sconti per il regalo perfetto!";
+        content: "Natale: Trova il regalo perfetto!";
         display: block;
         width: 100%;
         background: #c10000;
@@ -81,7 +81,7 @@
 @media only screen and (min-width: 768px) and (max-width: 1200px) {
     
     #amasty-shopby-product-list .item.product:before {
-        content: "Natale: Sconti per il regalo perfetto!";
+        content: "Natale: Trova il regalo perfetto!";
         display: block;
         width: 100%;
         background: #c10000;
